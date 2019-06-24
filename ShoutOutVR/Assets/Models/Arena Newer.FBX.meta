@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: e8097724a05aff642bca056efdcf8e5e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arena
+    100002: //RootNode
+    100004: Arena002
+    100006: Cone001
+    100008: Cone002
+    100010: Cone003
+    100012: Cone004
+    100014: Dome
+    100016: DoorFrames
+    100018: DoorFrames002
+    100020: Doors
+    100022: Doors 1
+    100024: Doors001
+    100026: DoorThing
+    100028: DoorThing001
+    100030: DoorThing002
+    100032: DoorThing003
+    100034: DoorThing004
+    100036: DoorThing005
+    100038: DoorThing006
+    100040: DoorThing014
+    100042: DoorThing015
+    100044: DoorThing016
+    100046: DoorThing017
+    100048: DoorThing018
+    100050: DoorThing019
+    100052: DoorThing020
+    100054: DoorThings
+    100056: DoorThings001
+    100058: DoorThings002
+    100060: DoorThings003
+    100062: DoorThings004
+    100064: DoorThings005
+    100066: DoorThings006
+    100068: DoorThings014
+    100070: DoorThings015
+    100072: DoorThings016
+    100074: DoorThings017
+    100076: DoorThings018
+    100078: DoorThings019
+    100080: DoorThings020
+    100082: Floor
+    100084: Floor002
+    100086: Other Wall
+    100088: Other Wall001
+    100090: Screens
+    100092: Screens Spinner
+    100094: Spawn Boxes
+    100096: Supporter001
+    100098: Upper Walls
+    100100: Upper Walls001
+    100102: WallRibs
+    100104: WallRibs002
+    100106: Walls
+    100108: Walls001
+    100110: Windows
+    100112: Windows001
+    100114: Windows002
+    100116: Windows003
+    100118: Windows004
+    400000: Arena
+    400002: //RootNode
+    400004: Arena002
+    400006: Cone001
+    400008: Cone002
+    400010: Cone003
+    400012: Cone004
+    400014: Dome
+    400016: DoorFrames
+    400018: DoorFrames002
+    400020: Doors
+    400022: Doors 1
+    400024: Doors001
+    400026: DoorThing
+    400028: DoorThing001
+    400030: DoorThing002
+    400032: DoorThing003
+    400034: DoorThing004
+    400036: DoorThing005
+    400038: DoorThing006
+    400040: DoorThing014
+    400042: DoorThing015
+    400044: DoorThing016
+    400046: DoorThing017
+    400048: DoorThing018
+    400050: DoorThing019
+    400052: DoorThing020
+    400054: DoorThings
+    400056: DoorThings001
+    400058: DoorThings002
+    400060: DoorThings003
+    400062: DoorThings004
+    400064: DoorThings005
+    400066: DoorThings006
+    400068: DoorThings014
+    400070: DoorThings015
+    400072: DoorThings016
+    400074: DoorThings017
+    400076: DoorThings018
+    400078: DoorThings019
+    400080: DoorThings020
+    400082: Floor
+    400084: Floor002
+    400086: Other Wall
+    400088: Other Wall001
+    400090: Screens
+    400092: Screens Spinner
+    400094: Spawn Boxes
+    400096: Supporter001
+    400098: Upper Walls
+    400100: Upper Walls001
+    400102: WallRibs
+    400104: WallRibs002
+    400106: Walls
+    400108: Walls001
+    400110: Windows
+    400112: Windows001
+    400114: Windows002
+    400116: Windows003
+    400118: Windows004
+    2100000: Arena
+    2100002: 'Material #325'
+    2100004: Door Frames
+    2100006: 'Material #408'
+    2100008: 'Material #409'
+    2100010: No Name
+    2100012: Dome_
+    2100014: Screens
+    2100016: Door Frame + Floor
+    2100018: Teeth
+    2100020: 'Material #301'
+    2100022: Upper Walls
+    2100024: Walls
+    2100026: Other Walls
+    2300000: Arena
+    2300002: Arena002
+    2300004: Cone001
+    2300006: Cone002
+    2300008: Cone003
+    2300010: Cone004
+    2300012: Dome
+    2300014: DoorFrames
+    2300016: DoorFrames002
+    2300018: Doors 1
+    2300020: Doors001
+    2300022: DoorThing
+    2300024: DoorThing001
+    2300026: DoorThing002
+    2300028: DoorThing003
+    2300030: DoorThing004
+    2300032: DoorThing005
+    2300034: DoorThing006
+    2300036: DoorThing014
+    2300038: DoorThing015
+    2300040: DoorThing016
+    2300042: DoorThing017
+    2300044: DoorThing018
+    2300046: DoorThing019
+    2300048: DoorThing020
+    2300050: DoorThings
+    2300052: DoorThings001
+    2300054: DoorThings002
+    2300056: DoorThings003
+    2300058: DoorThings004
+    2300060: DoorThings005
+    2300062: DoorThings006
+    2300064: DoorThings014
+    2300066: DoorThings015
+    2300068: DoorThings016
+    2300070: DoorThings017
+    2300072: DoorThings018
+    2300074: DoorThings019
+    2300076: DoorThings020
+    2300078: Floor
+    2300080: Floor002
+    2300082: Other Wall
+    2300084: Other Wall001
+    2300086: Screens
+    2300088: Screens Spinner
+    2300090: Spawn Boxes
+    2300092: Supporter001
+    2300094: Upper Walls
+    2300096: Upper Walls001
+    2300098: WallRibs
+    2300100: WallRibs002
+    2300102: Walls
+    2300104: Walls001
+    2300106: Windows
+    2300108: Windows001
+    2300110: Windows002
+    2300112: Windows003
+    2300114: Windows004
+    3300000: Arena
+    3300002: Arena002
+    3300004: Cone001
+    3300006: Cone002
+    3300008: Cone003
+    3300010: Cone004
+    3300012: Dome
+    3300014: DoorFrames
+    3300016: DoorFrames002
+    3300018: Doors 1
+    3300020: Doors001
+    3300022: DoorThing
+    3300024: DoorThing001
+    3300026: DoorThing002
+    3300028: DoorThing003
+    3300030: DoorThing004
+    3300032: DoorThing005
+    3300034: DoorThing006
+    3300036: DoorThing014
+    3300038: DoorThing015
+    3300040: DoorThing016
+    3300042: DoorThing017
+    3300044: DoorThing018
+    3300046: DoorThing019
+    3300048: DoorThing020
+    3300050: DoorThings
+    3300052: DoorThings001
+    3300054: DoorThings002
+    3300056: DoorThings003
+    3300058: DoorThings004
+    3300060: DoorThings005
+    3300062: DoorThings006
+    3300064: DoorThings014
+    3300066: DoorThings015
+    3300068: DoorThings016
+    3300070: DoorThings017
+    3300072: DoorThings018
+    3300074: DoorThings019
+    3300076: DoorThings020
+    3300078: Floor
+    3300080: Floor002
+    3300082: Other Wall
+    3300084: Other Wall001
+    3300086: Screens
+    3300088: Screens Spinner
+    3300090: Spawn Boxes
+    3300092: Supporter001
+    3300094: Upper Walls
+    3300096: Upper Walls001
+    3300098: WallRibs
+    3300100: WallRibs002
+    3300102: Walls
+    3300104: Walls001
+    3300106: Windows
+    3300108: Windows001
+    3300110: Windows002
+    3300112: Windows003
+    3300114: Windows004
+    4300000: Arena
+    4300002: DoorThing
+    4300004: DoorThing001
+    4300006: DoorThing002
+    4300008: DoorThing003
+    4300010: DoorThing004
+    4300012: DoorThing005
+    4300014: DoorThing006
+    4300016: DoorThings
+    4300018: DoorThings001
+    4300020: DoorThings002
+    4300022: DoorThings003
+    4300024: DoorThings004
+    4300026: DoorThings005
+    4300028: DoorThings006
+    4300030: DoorFrames
+    4300032: WallRibs
+    4300034: Doors
+    4300036: Doors001
+    4300038: Spawn Boxes
+    4300040: Dome
+    4300042: Windows
+    4300044: Windows004
+    4300046: Windows003
+    4300048: Windows002
+    4300050: Windows001
+    4300052: Screens
+    4300054: Floor
+    4300056: Cone001
+    4300058: Cone002
+    4300060: Cone003
+    4300062: Cone004
+    4300064: Supporter001
+    4300066: Screens Spinner
+    4300068: Upper Walls
+    4300070: Walls
+    4300072: Other Wall
+    4300074: Arena002
+    4300076: DoorFrames002
+    4300078: DoorThing014
+    4300080: DoorThing015
+    4300082: DoorThing016
+    4300084: DoorThing017
+    4300086: DoorThing018
+    4300088: DoorThing019
+    4300090: DoorThing020
+    4300092: DoorThings014
+    4300094: DoorThings015
+    4300096: DoorThings016
+    4300098: DoorThings017
+    4300100: DoorThings018
+    4300102: DoorThings019
+    4300104: DoorThings020
+    4300106: WallRibs002
+    4300108: Floor002
+    4300110: Other Wall001
+    4300112: Upper Walls001
+    4300114: Walls001
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arena
+    second: {fileID: 2100000, guid: e827082ab0cd8e942a0c20062c76c7b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dome_
+    second: {fileID: 2100000, guid: 1f30594e88218984fac462a04b869dd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door Frame + Floor
+    second: {fileID: 2100000, guid: c777ac73daff2f742bc22ae75bfad2a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door Frames
+    second: {fileID: 2100000, guid: a34a47b951be6554e87fff0a017546b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #301'
+    second: {fileID: 2100000, guid: 563781f13acba2e49925764d29d3c344, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #325'
+    second: {fileID: 2100000, guid: cd55b1f08ba172b49a9d9208e274abd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #408'
+    second: {fileID: 2100000, guid: b22de19e456d48645926fbb737c286ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #409'
+    second: {fileID: 2100000, guid: f7d584a00fc180744857cb9cae7124a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: d4bba3190ecdbc64b8c855c5de47d53e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Other Walls
+    second: {fileID: 2100000, guid: 21b02791b91ef964a81c1bc7375a5909, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screens
+    second: {fileID: 2100000, guid: 246d5572917ca8648ad9a6b7a6783854, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teeth
+    second: {fileID: 2100000, guid: cfabba8dad87b7b47ae9799ed11780e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Upper Walls
+    second: {fileID: 2100000, guid: 5dd377ce1b24b21458f3426938f144f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls
+    second: {fileID: 2100000, guid: db99d7776cc3ca9479f09d26d1ca19e9, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ColourScheme-1
+    second: {fileID: 2800000, guid: 03a221039d454454483fc232eb30c1c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DoorThings + WallRibs T
+    second: {fileID: 2800000, guid: 26f2a7107b0301842815cb6603d4c493, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Floor + Walls + Door T new
+    second: {fileID: 2800000, guid: 35bc1aad07df56f41bf11589da764a3e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Screens + Spinner T
+    second: {fileID: 2800000, guid: a9e46cc68c0936d4ebdcf46274e3c746, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Teeth UVW
+    second: {fileID: 2800000, guid: de9fb9dc817120044827c38b6a3fabe2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Test 2 T
+    second: {fileID: 2800000, guid: dc8752bb3fb78bf49b5be09ef4be4946, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Test 3 T
+    second: {fileID: 2800000, guid: f2177a0526a57a74a904287891e98466, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Test 4 T
+    second: {fileID: 2800000, guid: 851251e97e80cfe46b78aac1e5fc635a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Test 5 T
+    second: {fileID: 2800000, guid: 449281e061934db46a2910b53d13f944, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Test 6 T
+    second: {fileID: 2800000, guid: 54c1d26adf78b304bb2b11a20166cd60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Test 7 T
+    second: {fileID: 2800000, guid: 9cc53be20c35f4446b99a3730de0a9b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Test T
+    second: {fileID: 2800000, guid: 1a3b0fe2f6fb93e4aba40918c91dbb47, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alien_alpha
+    second: {fileID: 2800000, guid: f32be393e0d825b40801bcf9171ca576, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alien_spectator
+    second: {fileID: 2800000, guid: 6efe643caa8d71b48a06af9336b7d234, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

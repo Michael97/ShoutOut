@@ -1,0 +1,1037 @@
+fileFormatVersion: 2
+guid: 60c5509338f32b84b9865f8e342cbfcd
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arena002
+    100002: Arena005
+    100004: Bars091
+    100006: Bed091
+    100008: Catwalk002
+    100010: Catwalk005
+    100012: Catwalk006
+    100014: Catwalk007
+    100016: Catwalk008
+    100018: Catwalk009
+    100020: Catwalk010
+    100022: Ceiling092
+    100024: Ceiling128
+    100026: Ceiling129
+    100028: Ceiling130
+    100030: Ceiling131
+    100032: Ceiling132
+    100034: Ceiling193
+    100036: Ceiling194
+    100038: Ceiling195
+    100040: Ceiling196
+    100042: Ceiling197
+    100044: Ceiling198
+    100046: Ceiling199
+    100048: Ceiling200
+    100050: Ceiling201
+    100052: Ceiling202
+    100054: Ceiling203
+    100056: Ceiling204
+    100058: Ceiling205
+    100060: Ceiling206
+    100062: Ceiling207
+    100064: Ceiling208
+    100066: Ceiling209
+    100068: Ceiling210
+    100070: Ceiling211
+    100072: Ceiling212
+    100074: Ceiling213
+    100076: Ceiling214
+    100078: Ceiling215
+    100080: Ceiling216
+    100082: Ceiling217
+    100084: Ceiling218
+    100086: Ceiling219
+    100088: Ceiling220
+    100090: Ceiling221
+    100092: Ceiling222
+    100094: Ceiling223
+    100096: Ceiling224
+    100098: Ceiling225
+    100100: Ceiling226
+    100102: Ceiling227
+    100104: Ceiling228
+    100106: Ceiling229
+    100108: Ceiling230
+    100110: Ceiling231
+    100112: Ceiling232
+    100114: Ceiling233
+    100116: Ceiling234
+    100118: Ceiling235
+    100120: Ceiling236
+    100122: Ceiling237
+    100124: Ceiling238
+    100126: Ceiling239
+    100128: Ceiling240
+    100130: Ceiling241
+    100132: Ceiling242
+    100134: Ceiling243
+    100136: Ceiling244
+    100138: Ceiling245
+    100140: Ceiling246
+    100142: Ceiling247
+    100144: Ceiling248
+    100146: Ceiling249
+    100148: Ceiling250
+    100150: Ceiling251
+    100152: Ceiling252
+    100154: Ceiling253
+    100156: Ceiling254
+    100158: Ceiling255
+    100160: Ceiling256
+    100162: Ceiling257
+    100164: Ceiling258
+    100166: Ceiling259
+    100168: Ceiling260
+    100170: Ceiling261
+    100172: Ceiling262
+    100174: Ceiling263
+    100176: Ceiling264
+    100178: Ceiling265
+    100180: Ceiling266
+    100182: Ceiling267
+    100184: Ceiling268
+    100186: Ceiling269
+    100188: Ceiling270
+    100190: Ceiling271
+    100192: Ceiling272
+    100194: Ceiling273
+    100196: Ceiling274
+    100198: Ceiling275
+    100200: Ceiling276
+    100202: Ceiling277
+    100204: Ceiling278
+    100206: Ceiling279
+    100208: Ceiling280
+    100210: Ceiling281
+    100212: Ceiling282
+    100214: Ceiling283
+    100216: Ceiling284
+    100218: Ceiling285
+    100220: Ceiling286
+    100222: Ceiling287
+    100224: Ceiling288
+    100226: Ceiling289
+    100228: Ceiling290
+    100230: Ceiling291
+    100232: Ceiling292
+    100234: Ceiling293
+    100236: Ceiling294
+    100238: Ceiling295
+    100240: Ceiling296
+    100242: Ceiling297
+    100244: Ceiling298
+    100246: Ceiling299
+    100248: Cell Frame091
+    100250: //RootNode
+    100252: Curved Catwalk Grating
+    100254: Curved Catwalk Grating001
+    100256: Curved Catwalk Grating002
+    100258: Curved Catwalk Grating003
+    100260: Curved Catwalk Grating004
+    100262: Curved Catwalk Grating005
+    100264: Curved Catwalk Grating006
+    100266: Dome001
+    100268: Door Panel091
+    100270: DoorFrames002
+    100272: DoorFrames003
+    100274: Doors
+    100276: Doors001
+    100278: Doors003
+    100280: DoorThing014
+    100282: DoorThing015
+    100284: DoorThing016
+    100286: DoorThing017
+    100288: DoorThing018
+    100290: DoorThing019
+    100292: DoorThing020
+    100294: DoorThing021
+    100296: DoorThing022
+    100298: DoorThing023
+    100300: DoorThing024
+    100302: DoorThing025
+    100304: DoorThing026
+    100306: DoorThing027
+    100308: DoorThings014
+    100310: DoorThings015
+    100312: DoorThings016
+    100314: DoorThings017
+    100316: DoorThings018
+    100318: DoorThings019
+    100320: DoorThings020
+    100322: DoorThings022
+    100324: DoorThings023
+    100326: DoorThings024
+    100328: DoorThings025
+    100330: DoorThings026
+    100332: DoorThings027
+    100334: DoorThings028
+    100336: Floor002
+    100338: Floor003
+    100340: Hallway092
+    100342: Other Wall001
+    100344: Other Wall002
+    100346: Shelf091
+    100348: Toilet092
+    100350: Upper Walls001
+    100352: Upper Walls004
+    100354: Vent Frames091
+    100356: WallRibs002
+    100358: WallRibs005
+    100360: Walls001
+    100362: Walls004
+    100364: Window Frame091
+    100366: Windows005
+    100368: Windows006
+    100370: Windows007
+    100372: Windows008
+    100374: Windows009
+    400000: Arena002
+    400002: Arena005
+    400004: Bars091
+    400006: Bed091
+    400008: Catwalk002
+    400010: Catwalk005
+    400012: Catwalk006
+    400014: Catwalk007
+    400016: Catwalk008
+    400018: Catwalk009
+    400020: Catwalk010
+    400022: Ceiling092
+    400024: Ceiling128
+    400026: Ceiling129
+    400028: Ceiling130
+    400030: Ceiling131
+    400032: Ceiling132
+    400034: Ceiling193
+    400036: Ceiling194
+    400038: Ceiling195
+    400040: Ceiling196
+    400042: Ceiling197
+    400044: Ceiling198
+    400046: Ceiling199
+    400048: Ceiling200
+    400050: Ceiling201
+    400052: Ceiling202
+    400054: Ceiling203
+    400056: Ceiling204
+    400058: Ceiling205
+    400060: Ceiling206
+    400062: Ceiling207
+    400064: Ceiling208
+    400066: Ceiling209
+    400068: Ceiling210
+    400070: Ceiling211
+    400072: Ceiling212
+    400074: Ceiling213
+    400076: Ceiling214
+    400078: Ceiling215
+    400080: Ceiling216
+    400082: Ceiling217
+    400084: Ceiling218
+    400086: Ceiling219
+    400088: Ceiling220
+    400090: Ceiling221
+    400092: Ceiling222
+    400094: Ceiling223
+    400096: Ceiling224
+    400098: Ceiling225
+    400100: Ceiling226
+    400102: Ceiling227
+    400104: Ceiling228
+    400106: Ceiling229
+    400108: Ceiling230
+    400110: Ceiling231
+    400112: Ceiling232
+    400114: Ceiling233
+    400116: Ceiling234
+    400118: Ceiling235
+    400120: Ceiling236
+    400122: Ceiling237
+    400124: Ceiling238
+    400126: Ceiling239
+    400128: Ceiling240
+    400130: Ceiling241
+    400132: Ceiling242
+    400134: Ceiling243
+    400136: Ceiling244
+    400138: Ceiling245
+    400140: Ceiling246
+    400142: Ceiling247
+    400144: Ceiling248
+    400146: Ceiling249
+    400148: Ceiling250
+    400150: Ceiling251
+    400152: Ceiling252
+    400154: Ceiling253
+    400156: Ceiling254
+    400158: Ceiling255
+    400160: Ceiling256
+    400162: Ceiling257
+    400164: Ceiling258
+    400166: Ceiling259
+    400168: Ceiling260
+    400170: Ceiling261
+    400172: Ceiling262
+    400174: Ceiling263
+    400176: Ceiling264
+    400178: Ceiling265
+    400180: Ceiling266
+    400182: Ceiling267
+    400184: Ceiling268
+    400186: Ceiling269
+    400188: Ceiling270
+    400190: Ceiling271
+    400192: Ceiling272
+    400194: Ceiling273
+    400196: Ceiling274
+    400198: Ceiling275
+    400200: Ceiling276
+    400202: Ceiling277
+    400204: Ceiling278
+    400206: Ceiling279
+    400208: Ceiling280
+    400210: Ceiling281
+    400212: Ceiling282
+    400214: Ceiling283
+    400216: Ceiling284
+    400218: Ceiling285
+    400220: Ceiling286
+    400222: Ceiling287
+    400224: Ceiling288
+    400226: Ceiling289
+    400228: Ceiling290
+    400230: Ceiling291
+    400232: Ceiling292
+    400234: Ceiling293
+    400236: Ceiling294
+    400238: Ceiling295
+    400240: Ceiling296
+    400242: Ceiling297
+    400244: Ceiling298
+    400246: Ceiling299
+    400248: Cell Frame091
+    400250: //RootNode
+    400252: Curved Catwalk Grating
+    400254: Curved Catwalk Grating001
+    400256: Curved Catwalk Grating002
+    400258: Curved Catwalk Grating003
+    400260: Curved Catwalk Grating004
+    400262: Curved Catwalk Grating005
+    400264: Curved Catwalk Grating006
+    400266: Dome001
+    400268: Door Panel091
+    400270: DoorFrames002
+    400272: DoorFrames003
+    400274: Doors
+    400276: Doors001
+    400278: Doors003
+    400280: DoorThing014
+    400282: DoorThing015
+    400284: DoorThing016
+    400286: DoorThing017
+    400288: DoorThing018
+    400290: DoorThing019
+    400292: DoorThing020
+    400294: DoorThing021
+    400296: DoorThing022
+    400298: DoorThing023
+    400300: DoorThing024
+    400302: DoorThing025
+    400304: DoorThing026
+    400306: DoorThing027
+    400308: DoorThings014
+    400310: DoorThings015
+    400312: DoorThings016
+    400314: DoorThings017
+    400316: DoorThings018
+    400318: DoorThings019
+    400320: DoorThings020
+    400322: DoorThings022
+    400324: DoorThings023
+    400326: DoorThings024
+    400328: DoorThings025
+    400330: DoorThings026
+    400332: DoorThings027
+    400334: DoorThings028
+    400336: Floor002
+    400338: Floor003
+    400340: Hallway092
+    400342: Other Wall001
+    400344: Other Wall002
+    400346: Shelf091
+    400348: Toilet092
+    400350: Upper Walls001
+    400352: Upper Walls004
+    400354: Vent Frames091
+    400356: WallRibs002
+    400358: WallRibs005
+    400360: Walls001
+    400362: Walls004
+    400364: Window Frame091
+    400366: Windows005
+    400368: Windows006
+    400370: Windows007
+    400372: Windows008
+    400374: Windows009
+    2100000: 'Material #409'
+    2100002: Arena
+    2100004: Door Frames
+    2100006: 'Material #325'
+    2100008: 'Material #408'
+    2100010: Door Frame + Floor
+    2100012: Other Walls
+    2100014: Upper Walls
+    2100016: Walls
+    2100018: Catwalk Purple
+    2100020: Cell Walls
+    2100022: Cell Report
+    2100024: Cell Frame Grey
+    2100026: Outside Walls
+    2100028: Vents
+    2100030: Cell Bars
+    2100032: Catwalk Blue
+    2100034: 'Material #445'
+    2300000: Arena002
+    2300002: Arena005
+    2300004: Bars091
+    2300006: Bed091
+    2300008: Catwalk002
+    2300010: Catwalk005
+    2300012: Catwalk006
+    2300014: Catwalk007
+    2300016: Catwalk008
+    2300018: Catwalk009
+    2300020: Catwalk010
+    2300022: Ceiling092
+    2300024: Ceiling128
+    2300026: Ceiling129
+    2300028: Ceiling130
+    2300030: Ceiling131
+    2300032: Ceiling132
+    2300034: Ceiling193
+    2300036: Ceiling194
+    2300038: Ceiling195
+    2300040: Ceiling196
+    2300042: Ceiling197
+    2300044: Ceiling198
+    2300046: Ceiling199
+    2300048: Ceiling200
+    2300050: Ceiling201
+    2300052: Ceiling202
+    2300054: Ceiling203
+    2300056: Ceiling204
+    2300058: Ceiling205
+    2300060: Ceiling206
+    2300062: Ceiling207
+    2300064: Ceiling208
+    2300066: Ceiling209
+    2300068: Ceiling210
+    2300070: Ceiling211
+    2300072: Ceiling212
+    2300074: Ceiling213
+    2300076: Ceiling214
+    2300078: Ceiling215
+    2300080: Ceiling216
+    2300082: Ceiling217
+    2300084: Ceiling218
+    2300086: Ceiling219
+    2300088: Ceiling220
+    2300090: Ceiling221
+    2300092: Ceiling222
+    2300094: Ceiling223
+    2300096: Ceiling224
+    2300098: Ceiling225
+    2300100: Ceiling226
+    2300102: Ceiling227
+    2300104: Ceiling228
+    2300106: Ceiling229
+    2300108: Ceiling230
+    2300110: Ceiling231
+    2300112: Ceiling232
+    2300114: Ceiling233
+    2300116: Ceiling234
+    2300118: Ceiling235
+    2300120: Ceiling236
+    2300122: Ceiling237
+    2300124: Ceiling238
+    2300126: Ceiling239
+    2300128: Ceiling240
+    2300130: Ceiling241
+    2300132: Ceiling242
+    2300134: Ceiling243
+    2300136: Ceiling244
+    2300138: Ceiling245
+    2300140: Ceiling246
+    2300142: Ceiling247
+    2300144: Ceiling248
+    2300146: Ceiling249
+    2300148: Ceiling250
+    2300150: Ceiling251
+    2300152: Ceiling252
+    2300154: Ceiling253
+    2300156: Ceiling254
+    2300158: Ceiling255
+    2300160: Ceiling256
+    2300162: Ceiling257
+    2300164: Ceiling258
+    2300166: Ceiling259
+    2300168: Ceiling260
+    2300170: Ceiling261
+    2300172: Ceiling262
+    2300174: Ceiling263
+    2300176: Ceiling264
+    2300178: Ceiling265
+    2300180: Ceiling266
+    2300182: Ceiling267
+    2300184: Ceiling268
+    2300186: Ceiling269
+    2300188: Ceiling270
+    2300190: Ceiling271
+    2300192: Ceiling272
+    2300194: Ceiling273
+    2300196: Ceiling274
+    2300198: Ceiling275
+    2300200: Ceiling276
+    2300202: Ceiling277
+    2300204: Ceiling278
+    2300206: Ceiling279
+    2300208: Ceiling280
+    2300210: Ceiling281
+    2300212: Ceiling282
+    2300214: Ceiling283
+    2300216: Ceiling284
+    2300218: Ceiling285
+    2300220: Ceiling286
+    2300222: Ceiling287
+    2300224: Ceiling288
+    2300226: Ceiling289
+    2300228: Ceiling290
+    2300230: Ceiling291
+    2300232: Ceiling292
+    2300234: Ceiling293
+    2300236: Ceiling294
+    2300238: Ceiling295
+    2300240: Ceiling296
+    2300242: Ceiling297
+    2300244: Ceiling298
+    2300246: Ceiling299
+    2300248: Cell Frame091
+    2300250: Curved Catwalk Grating
+    2300252: Curved Catwalk Grating001
+    2300254: Curved Catwalk Grating002
+    2300256: Curved Catwalk Grating003
+    2300258: Curved Catwalk Grating004
+    2300260: Curved Catwalk Grating005
+    2300262: Curved Catwalk Grating006
+    2300264: Dome001
+    2300266: Door Panel091
+    2300268: DoorFrames002
+    2300270: DoorFrames003
+    2300272: Doors001
+    2300274: Doors003
+    2300276: DoorThing014
+    2300278: DoorThing015
+    2300280: DoorThing016
+    2300282: DoorThing017
+    2300284: DoorThing018
+    2300286: DoorThing019
+    2300288: DoorThing020
+    2300290: DoorThing021
+    2300292: DoorThing022
+    2300294: DoorThing023
+    2300296: DoorThing024
+    2300298: DoorThing025
+    2300300: DoorThing026
+    2300302: DoorThing027
+    2300304: DoorThings014
+    2300306: DoorThings015
+    2300308: DoorThings016
+    2300310: DoorThings017
+    2300312: DoorThings018
+    2300314: DoorThings019
+    2300316: DoorThings020
+    2300318: DoorThings022
+    2300320: DoorThings023
+    2300322: DoorThings024
+    2300324: DoorThings025
+    2300326: DoorThings026
+    2300328: DoorThings027
+    2300330: DoorThings028
+    2300332: Floor002
+    2300334: Floor003
+    2300336: Hallway092
+    2300338: Other Wall001
+    2300340: Other Wall002
+    2300342: Shelf091
+    2300344: Toilet092
+    2300346: Upper Walls001
+    2300348: Upper Walls004
+    2300350: Vent Frames091
+    2300352: WallRibs002
+    2300354: WallRibs005
+    2300356: Walls001
+    2300358: Walls004
+    2300360: Window Frame091
+    2300362: Windows005
+    2300364: Windows006
+    2300366: Windows007
+    2300368: Windows008
+    3300000: Arena002
+    3300002: Arena005
+    3300004: Bars091
+    3300006: Bed091
+    3300008: Catwalk002
+    3300010: Catwalk005
+    3300012: Catwalk006
+    3300014: Catwalk007
+    3300016: Catwalk008
+    3300018: Catwalk009
+    3300020: Catwalk010
+    3300022: Ceiling092
+    3300024: Ceiling128
+    3300026: Ceiling129
+    3300028: Ceiling130
+    3300030: Ceiling131
+    3300032: Ceiling132
+    3300034: Ceiling193
+    3300036: Ceiling194
+    3300038: Ceiling195
+    3300040: Ceiling196
+    3300042: Ceiling197
+    3300044: Ceiling198
+    3300046: Ceiling199
+    3300048: Ceiling200
+    3300050: Ceiling201
+    3300052: Ceiling202
+    3300054: Ceiling203
+    3300056: Ceiling204
+    3300058: Ceiling205
+    3300060: Ceiling206
+    3300062: Ceiling207
+    3300064: Ceiling208
+    3300066: Ceiling209
+    3300068: Ceiling210
+    3300070: Ceiling211
+    3300072: Ceiling212
+    3300074: Ceiling213
+    3300076: Ceiling214
+    3300078: Ceiling215
+    3300080: Ceiling216
+    3300082: Ceiling217
+    3300084: Ceiling218
+    3300086: Ceiling219
+    3300088: Ceiling220
+    3300090: Ceiling221
+    3300092: Ceiling222
+    3300094: Ceiling223
+    3300096: Ceiling224
+    3300098: Ceiling225
+    3300100: Ceiling226
+    3300102: Ceiling227
+    3300104: Ceiling228
+    3300106: Ceiling229
+    3300108: Ceiling230
+    3300110: Ceiling231
+    3300112: Ceiling232
+    3300114: Ceiling233
+    3300116: Ceiling234
+    3300118: Ceiling235
+    3300120: Ceiling236
+    3300122: Ceiling237
+    3300124: Ceiling238
+    3300126: Ceiling239
+    3300128: Ceiling240
+    3300130: Ceiling241
+    3300132: Ceiling242
+    3300134: Ceiling243
+    3300136: Ceiling244
+    3300138: Ceiling245
+    3300140: Ceiling246
+    3300142: Ceiling247
+    3300144: Ceiling248
+    3300146: Ceiling249
+    3300148: Ceiling250
+    3300150: Ceiling251
+    3300152: Ceiling252
+    3300154: Ceiling253
+    3300156: Ceiling254
+    3300158: Ceiling255
+    3300160: Ceiling256
+    3300162: Ceiling257
+    3300164: Ceiling258
+    3300166: Ceiling259
+    3300168: Ceiling260
+    3300170: Ceiling261
+    3300172: Ceiling262
+    3300174: Ceiling263
+    3300176: Ceiling264
+    3300178: Ceiling265
+    3300180: Ceiling266
+    3300182: Ceiling267
+    3300184: Ceiling268
+    3300186: Ceiling269
+    3300188: Ceiling270
+    3300190: Ceiling271
+    3300192: Ceiling272
+    3300194: Ceiling273
+    3300196: Ceiling274
+    3300198: Ceiling275
+    3300200: Ceiling276
+    3300202: Ceiling277
+    3300204: Ceiling278
+    3300206: Ceiling279
+    3300208: Ceiling280
+    3300210: Ceiling281
+    3300212: Ceiling282
+    3300214: Ceiling283
+    3300216: Ceiling284
+    3300218: Ceiling285
+    3300220: Ceiling286
+    3300222: Ceiling287
+    3300224: Ceiling288
+    3300226: Ceiling289
+    3300228: Ceiling290
+    3300230: Ceiling291
+    3300232: Ceiling292
+    3300234: Ceiling293
+    3300236: Ceiling294
+    3300238: Ceiling295
+    3300240: Ceiling296
+    3300242: Ceiling297
+    3300244: Ceiling298
+    3300246: Ceiling299
+    3300248: Cell Frame091
+    3300250: Curved Catwalk Grating
+    3300252: Curved Catwalk Grating001
+    3300254: Curved Catwalk Grating002
+    3300256: Curved Catwalk Grating003
+    3300258: Curved Catwalk Grating004
+    3300260: Curved Catwalk Grating005
+    3300262: Curved Catwalk Grating006
+    3300264: Dome001
+    3300266: Door Panel091
+    3300268: DoorFrames002
+    3300270: DoorFrames003
+    3300272: Doors001
+    3300274: Doors003
+    3300276: DoorThing014
+    3300278: DoorThing015
+    3300280: DoorThing016
+    3300282: DoorThing017
+    3300284: DoorThing018
+    3300286: DoorThing019
+    3300288: DoorThing020
+    3300290: DoorThing021
+    3300292: DoorThing022
+    3300294: DoorThing023
+    3300296: DoorThing024
+    3300298: DoorThing025
+    3300300: DoorThing026
+    3300302: DoorThing027
+    3300304: DoorThings014
+    3300306: DoorThings015
+    3300308: DoorThings016
+    3300310: DoorThings017
+    3300312: DoorThings018
+    3300314: DoorThings019
+    3300316: DoorThings020
+    3300318: DoorThings022
+    3300320: DoorThings023
+    3300322: DoorThings024
+    3300324: DoorThings025
+    3300326: DoorThings026
+    3300328: DoorThings027
+    3300330: DoorThings028
+    3300332: Floor002
+    3300334: Floor003
+    3300336: Hallway092
+    3300338: Other Wall001
+    3300340: Other Wall002
+    3300342: Shelf091
+    3300344: Toilet092
+    3300346: Upper Walls001
+    3300348: Upper Walls004
+    3300350: Vent Frames091
+    3300352: WallRibs002
+    3300354: WallRibs005
+    3300356: Walls001
+    3300358: Walls004
+    3300360: Window Frame091
+    3300362: Windows005
+    3300364: Windows006
+    3300366: Windows007
+    3300368: Windows008
+    4300000: Doors001
+    4300002: Doors003
+    4300004: Arena002
+    4300006: DoorFrames002
+    4300008: DoorThing014
+    4300010: DoorThing015
+    4300012: DoorThing016
+    4300014: DoorThing017
+    4300016: DoorThing018
+    4300018: DoorThing019
+    4300020: DoorThing020
+    4300022: DoorThings014
+    4300024: DoorThings015
+    4300026: DoorThings016
+    4300028: DoorThings017
+    4300030: DoorThings018
+    4300032: DoorThings019
+    4300034: DoorThings020
+    4300036: WallRibs002
+    4300038: Floor002
+    4300040: Other Wall001
+    4300042: Upper Walls001
+    4300044: Walls001
+    4300046: Catwalk002
+    4300048: Ceiling092
+    4300050: Ceiling128
+    4300052: Ceiling129
+    4300054: Ceiling130
+    4300056: Ceiling131
+    4300058: Ceiling132
+    4300060: Ceiling193
+    4300062: Ceiling194
+    4300064: Ceiling195
+    4300066: Ceiling196
+    4300068: Ceiling197
+    4300070: Ceiling198
+    4300072: Bars091
+    4300074: Bed091
+    4300076: Ceiling199
+    4300078: Cell Frame091
+    4300080: Door Panel091
+    4300082: Hallway092
+    4300084: Shelf091
+    4300086: Toilet092
+    4300088: Vent Frames091
+    4300090: Window Frame091
+    4300092: Curved Catwalk Grating
+    4300094: Catwalk005
+    4300096: Ceiling200
+    4300098: Ceiling201
+    4300100: Ceiling202
+    4300102: Ceiling203
+    4300104: Ceiling204
+    4300106: Ceiling205
+    4300108: Ceiling206
+    4300110: Ceiling207
+    4300112: Ceiling208
+    4300114: Ceiling209
+    4300116: Ceiling210
+    4300118: Ceiling211
+    4300120: Curved Catwalk Grating001
+    4300122: Catwalk006
+    4300124: Ceiling212
+    4300126: Ceiling213
+    4300128: Ceiling214
+    4300130: Ceiling215
+    4300132: Ceiling216
+    4300134: Ceiling217
+    4300136: Ceiling218
+    4300138: Ceiling219
+    4300140: Ceiling220
+    4300142: Ceiling221
+    4300144: Ceiling222
+    4300146: Ceiling223
+    4300148: Curved Catwalk Grating002
+    4300150: Catwalk007
+    4300152: Ceiling224
+    4300154: Ceiling225
+    4300156: Ceiling226
+    4300158: Ceiling227
+    4300160: Ceiling228
+    4300162: Ceiling229
+    4300164: Ceiling230
+    4300166: Ceiling231
+    4300168: Ceiling232
+    4300170: Ceiling233
+    4300172: Ceiling234
+    4300174: Ceiling235
+    4300176: Curved Catwalk Grating003
+    4300178: Catwalk008
+    4300180: Ceiling236
+    4300182: Ceiling237
+    4300184: Ceiling238
+    4300186: Ceiling239
+    4300188: Ceiling240
+    4300190: Ceiling241
+    4300192: Ceiling242
+    4300194: Ceiling243
+    4300196: Ceiling244
+    4300198: Ceiling245
+    4300200: Ceiling246
+    4300202: Ceiling247
+    4300204: Curved Catwalk Grating004
+    4300206: Catwalk009
+    4300208: Ceiling248
+    4300210: Ceiling249
+    4300212: Ceiling250
+    4300214: Ceiling251
+    4300216: Ceiling252
+    4300218: Ceiling253
+    4300220: Ceiling254
+    4300222: Ceiling255
+    4300224: Ceiling256
+    4300226: Ceiling257
+    4300228: Ceiling258
+    4300230: Ceiling259
+    4300232: Curved Catwalk Grating005
+    4300234: Catwalk010
+    4300236: Ceiling260
+    4300238: Ceiling261
+    4300240: Ceiling262
+    4300242: Ceiling263
+    4300244: Ceiling264
+    4300246: Ceiling265
+    4300248: Ceiling266
+    4300250: Ceiling267
+    4300252: Ceiling268
+    4300254: Ceiling269
+    4300256: Ceiling270
+    4300258: Ceiling271
+    4300260: Curved Catwalk Grating006
+    4300262: Ceiling272
+    4300264: Ceiling273
+    4300266: Ceiling274
+    4300268: Ceiling275
+    4300270: Ceiling276
+    4300272: Ceiling277
+    4300274: Ceiling278
+    4300276: Ceiling279
+    4300278: Ceiling280
+    4300280: Ceiling281
+    4300282: Ceiling282
+    4300284: Ceiling283
+    4300286: Ceiling284
+    4300288: Ceiling285
+    4300290: Ceiling286
+    4300292: Ceiling287
+    4300294: Ceiling288
+    4300296: Ceiling289
+    4300298: Ceiling290
+    4300300: Ceiling291
+    4300302: Ceiling292
+    4300304: Ceiling293
+    4300306: Ceiling294
+    4300308: Ceiling295
+    4300310: Ceiling296
+    4300312: Ceiling297
+    4300314: Ceiling298
+    4300316: Ceiling299
+    4300318: Dome001
+    4300320: Windows005
+    4300322: Windows006
+    4300324: Windows007
+    4300326: Windows008
+    4300328: Arena005
+    4300330: DoorFrames003
+    4300332: DoorThing021
+    4300334: DoorThing022
+    4300336: DoorThing023
+    4300338: DoorThing024
+    4300340: DoorThing025
+    4300342: DoorThing026
+    4300344: DoorThing027
+    4300346: DoorThings022
+    4300348: DoorThings023
+    4300350: DoorThings024
+    4300352: DoorThings025
+    4300354: DoorThings026
+    4300356: DoorThings027
+    4300358: DoorThings028
+    4300360: WallRibs005
+    4300362: Floor003
+    4300364: Other Wall002
+    4300366: Upper Walls004
+    4300368: Walls004
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

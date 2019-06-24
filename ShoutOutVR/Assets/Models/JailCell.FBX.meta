@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 70e76c5806f868847870e39cc15cbee3
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bars
+    100002: Bed
+    100004: Catwalk
+    100006: CatwalkGrid
+    100008: Ceiling
+    100010: Ceiling001
+    100012: Cell Frame
+    100014: Cell Height Ref
+    100016: Cell2
+    100018: Door Panel
+    100020: Door Shield
+    100022: Hallway
+    100024: Hallway001
+    100026: HallwayHalf
+    100028: //RootNode
+    100030: Opposite Cell
+    100032: Opposite Cell Ceiling
+    100034: Opposite Cell Toilet
+    100036: Shelf
+    100038: Toilet
+    100040: Toilet001
+    100042: Vent Frames
+    100044: Window Frame
+    400000: Bars
+    400002: Bed
+    400004: Catwalk
+    400006: CatwalkGrid
+    400008: Ceiling
+    400010: Ceiling001
+    400012: Cell Frame
+    400014: Cell Height Ref
+    400016: Cell2
+    400018: Door Panel
+    400020: Door Shield
+    400022: Hallway
+    400024: Hallway001
+    400026: HallwayHalf
+    400028: //RootNode
+    400030: Opposite Cell
+    400032: Opposite Cell Ceiling
+    400034: Opposite Cell Toilet
+    400036: Shelf
+    400038: Toilet
+    400040: Toilet001
+    400042: Vent Frames
+    400044: Window Frame
+    2100000: No Name
+    2300000: Bars
+    2300002: Bed
+    2300004: Catwalk
+    2300006: CatwalkGrid
+    2300008: Ceiling
+    2300010: Ceiling001
+    2300012: Cell Frame
+    2300014: Cell Height Ref
+    2300016: Cell2
+    2300018: Door Panel
+    2300020: Door Shield
+    2300022: Hallway
+    2300024: Hallway001
+    2300026: HallwayHalf
+    2300028: Opposite Cell
+    2300030: Opposite Cell Ceiling
+    2300032: Opposite Cell Toilet
+    2300034: Shelf
+    2300036: Toilet
+    2300038: Toilet001
+    2300040: Vent Frames
+    2300042: Window Frame
+    3300000: Bars
+    3300002: Bed
+    3300004: Catwalk
+    3300006: CatwalkGrid
+    3300008: Ceiling
+    3300010: Ceiling001
+    3300012: Cell Frame
+    3300014: Cell Height Ref
+    3300016: Cell2
+    3300018: Door Panel
+    3300020: Door Shield
+    3300022: Hallway
+    3300024: Hallway001
+    3300026: HallwayHalf
+    3300028: Opposite Cell
+    3300030: Opposite Cell Ceiling
+    3300032: Opposite Cell Toilet
+    3300034: Shelf
+    3300036: Toilet
+    3300038: Toilet001
+    3300040: Vent Frames
+    3300042: Window Frame
+    4300000: Cell Height Ref
+    4300002: Toilet
+    4300004: Ceiling
+    4300006: Hallway
+    4300008: Cell2
+    4300010: Toilet001
+    4300012: Hallway001
+    4300014: Ceiling001
+    4300016: Opposite Cell
+    4300018: Opposite Cell Ceiling
+    4300020: Opposite Cell Toilet
+    4300022: HallwayHalf
+    4300024: Cell Frame
+    4300026: Door Panel
+    4300028: Door Shield
+    4300030: Bed
+    4300032: Window Frame
+    4300034: Shelf
+    4300036: Bars
+    4300038: Vent Frames
+    4300040: Catwalk
+    4300042: CatwalkGrid
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

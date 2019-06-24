@@ -1,0 +1,534 @@
+fileFormatVersion: 2
+guid: 6625244877286de4fbdb31acb3b38724
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1.8m box
+    100002: A Door
+    100004: Arena
+    100006: Arena001
+    100008: B Door
+    100010: C Door
+    100012: Cone001
+    100014: Cone002
+    100016: Cone003
+    100018: Cone004
+    100020: D Door
+    100022: Dome
+    100024: DoorFrames
+    100026: DoorFrames001
+    100028: Doors
+    100030: DoorThing
+    100032: DoorThing001
+    100034: DoorThing002
+    100036: DoorThing003
+    100038: DoorThing004
+    100040: DoorThing005
+    100042: DoorThing006
+    100044: DoorThing007
+    100046: DoorThing008
+    100048: DoorThing009
+    100050: DoorThing010
+    100052: DoorThing011
+    100054: DoorThing012
+    100056: DoorThing013
+    100058: DoorThings
+    100060: DoorThings001
+    100062: DoorThings002
+    100064: DoorThings003
+    100066: DoorThings004
+    100068: DoorThings005
+    100070: DoorThings006
+    100072: DoorThings007
+    100074: DoorThings008
+    100076: DoorThings009
+    100078: DoorThings010
+    100080: DoorThings011
+    100082: DoorThings012
+    100084: DoorThings013
+    100086: E Door
+    100088: F Door
+    100090: Floor
+    100092: Floor001
+    100094: G Door
+    100096: H Door
+    100098: Head
+    100100: Head001
+    100102: I Door
+    100104: J Door
+    100106: K Door
+    100108: L Door
+    100110: LeftHand
+    100112: LeftHand001
+    100114: M Door
+    100116: N Door
+    100118: O Door
+    100120: Object001
+    100122: P Door
+    100124: Q Door
+    100126: R Door
+    100128: RightHand
+    100130: RightHand001
+    100132: S Door
+    100134: Screens
+    100136: //RootNode
+    100138: Spawn Boxes
+    100140: Supporter
+    100142: Supporter001
+    100144: T Door
+    100146: U Door
+    100148: V Door
+    100150: W Door
+    100152: WallRibs
+    100154: WallRibs001
+    100156: Windows
+    100158: Windows001
+    100160: Windows002
+    100162: Windows003
+    100164: Windows004
+    100166: X Door
+    100168: Y Door
+    100170: Z Door
+    400000: 1.8m box
+    400002: A Door
+    400004: Arena
+    400006: Arena001
+    400008: B Door
+    400010: C Door
+    400012: Cone001
+    400014: Cone002
+    400016: Cone003
+    400018: Cone004
+    400020: D Door
+    400022: Dome
+    400024: DoorFrames
+    400026: DoorFrames001
+    400028: Doors
+    400030: DoorThing
+    400032: DoorThing001
+    400034: DoorThing002
+    400036: DoorThing003
+    400038: DoorThing004
+    400040: DoorThing005
+    400042: DoorThing006
+    400044: DoorThing007
+    400046: DoorThing008
+    400048: DoorThing009
+    400050: DoorThing010
+    400052: DoorThing011
+    400054: DoorThing012
+    400056: DoorThing013
+    400058: DoorThings
+    400060: DoorThings001
+    400062: DoorThings002
+    400064: DoorThings003
+    400066: DoorThings004
+    400068: DoorThings005
+    400070: DoorThings006
+    400072: DoorThings007
+    400074: DoorThings008
+    400076: DoorThings009
+    400078: DoorThings010
+    400080: DoorThings011
+    400082: DoorThings012
+    400084: DoorThings013
+    400086: E Door
+    400088: F Door
+    400090: Floor
+    400092: Floor001
+    400094: G Door
+    400096: H Door
+    400098: Head
+    400100: Head001
+    400102: I Door
+    400104: J Door
+    400106: K Door
+    400108: L Door
+    400110: LeftHand
+    400112: LeftHand001
+    400114: M Door
+    400116: N Door
+    400118: O Door
+    400120: Object001
+    400122: P Door
+    400124: Q Door
+    400126: R Door
+    400128: RightHand
+    400130: RightHand001
+    400132: S Door
+    400134: Screens
+    400136: //RootNode
+    400138: Spawn Boxes
+    400140: Supporter
+    400142: Supporter001
+    400144: T Door
+    400146: U Door
+    400148: V Door
+    400150: W Door
+    400152: WallRibs
+    400154: WallRibs001
+    400156: Windows
+    400158: Windows001
+    400160: Windows002
+    400162: Windows003
+    400164: Windows004
+    400166: X Door
+    400168: Y Door
+    400170: Z Door
+    2100000: 'Material #27'
+    2100002: 'Material #30'
+    2100004: No Name
+    2100006: 'Material #26'
+    2300000: 1.8m box
+    2300002: A Door
+    2300004: Arena
+    2300006: Arena001
+    2300008: B Door
+    2300010: C Door
+    2300012: Cone001
+    2300014: Cone002
+    2300016: Cone003
+    2300018: Cone004
+    2300020: D Door
+    2300022: Dome
+    2300024: DoorFrames
+    2300026: DoorFrames001
+    2300028: DoorThing
+    2300030: DoorThing001
+    2300032: DoorThing002
+    2300034: DoorThing003
+    2300036: DoorThing004
+    2300038: DoorThing005
+    2300040: DoorThing006
+    2300042: DoorThing007
+    2300044: DoorThing008
+    2300046: DoorThing009
+    2300048: DoorThing010
+    2300050: DoorThing011
+    2300052: DoorThing012
+    2300054: DoorThing013
+    2300056: DoorThings
+    2300058: DoorThings001
+    2300060: DoorThings002
+    2300062: DoorThings003
+    2300064: DoorThings004
+    2300066: DoorThings005
+    2300068: DoorThings006
+    2300070: DoorThings007
+    2300072: DoorThings008
+    2300074: DoorThings009
+    2300076: DoorThings010
+    2300078: DoorThings011
+    2300080: DoorThings012
+    2300082: DoorThings013
+    2300084: E Door
+    2300086: F Door
+    2300088: Floor
+    2300090: Floor001
+    2300092: G Door
+    2300094: H Door
+    2300096: Head
+    2300098: Head001
+    2300100: I Door
+    2300102: J Door
+    2300104: K Door
+    2300106: L Door
+    2300108: LeftHand
+    2300110: LeftHand001
+    2300112: M Door
+    2300114: N Door
+    2300116: O Door
+    2300118: Object001
+    2300120: P Door
+    2300122: Q Door
+    2300124: R Door
+    2300126: RightHand
+    2300128: RightHand001
+    2300130: S Door
+    2300132: Screens
+    2300134: Spawn Boxes
+    2300136: Supporter
+    2300138: Supporter001
+    2300140: T Door
+    2300142: U Door
+    2300144: V Door
+    2300146: W Door
+    2300148: WallRibs
+    2300150: WallRibs001
+    2300152: Windows
+    2300154: Windows001
+    2300156: Windows002
+    2300158: Windows003
+    2300160: Windows004
+    2300162: X Door
+    2300164: Y Door
+    2300166: Z Door
+    3300000: 1.8m box
+    3300002: A Door
+    3300004: Arena
+    3300006: Arena001
+    3300008: B Door
+    3300010: C Door
+    3300012: Cone001
+    3300014: Cone002
+    3300016: Cone003
+    3300018: Cone004
+    3300020: D Door
+    3300022: Dome
+    3300024: DoorFrames
+    3300026: DoorFrames001
+    3300028: DoorThing
+    3300030: DoorThing001
+    3300032: DoorThing002
+    3300034: DoorThing003
+    3300036: DoorThing004
+    3300038: DoorThing005
+    3300040: DoorThing006
+    3300042: DoorThing007
+    3300044: DoorThing008
+    3300046: DoorThing009
+    3300048: DoorThing010
+    3300050: DoorThing011
+    3300052: DoorThing012
+    3300054: DoorThing013
+    3300056: DoorThings
+    3300058: DoorThings001
+    3300060: DoorThings002
+    3300062: DoorThings003
+    3300064: DoorThings004
+    3300066: DoorThings005
+    3300068: DoorThings006
+    3300070: DoorThings007
+    3300072: DoorThings008
+    3300074: DoorThings009
+    3300076: DoorThings010
+    3300078: DoorThings011
+    3300080: DoorThings012
+    3300082: DoorThings013
+    3300084: E Door
+    3300086: F Door
+    3300088: Floor
+    3300090: Floor001
+    3300092: G Door
+    3300094: H Door
+    3300096: Head
+    3300098: Head001
+    3300100: I Door
+    3300102: J Door
+    3300104: K Door
+    3300106: L Door
+    3300108: LeftHand
+    3300110: LeftHand001
+    3300112: M Door
+    3300114: N Door
+    3300116: O Door
+    3300118: Object001
+    3300120: P Door
+    3300122: Q Door
+    3300124: R Door
+    3300126: RightHand
+    3300128: RightHand001
+    3300130: S Door
+    3300132: Screens
+    3300134: Spawn Boxes
+    3300136: Supporter
+    3300138: Supporter001
+    3300140: T Door
+    3300142: U Door
+    3300144: V Door
+    3300146: W Door
+    3300148: WallRibs
+    3300150: WallRibs001
+    3300152: Windows
+    3300154: Windows001
+    3300156: Windows002
+    3300158: Windows003
+    3300160: Windows004
+    3300162: X Door
+    3300164: Y Door
+    3300166: Z Door
+    4300000: Arena
+    4300002: DoorThing
+    4300004: DoorThing001
+    4300006: DoorThing002
+    4300008: DoorThing003
+    4300010: DoorThing004
+    4300012: DoorThing005
+    4300014: DoorThing006
+    4300016: DoorThings
+    4300018: DoorThings001
+    4300020: DoorThings002
+    4300022: DoorThings003
+    4300024: DoorThings004
+    4300026: DoorThings005
+    4300028: DoorThings006
+    4300030: DoorFrames
+    4300032: WallRibs
+    4300034: 1.8m box
+    4300036: A Door
+    4300038: B Door
+    4300040: C Door
+    4300042: D Door
+    4300044: E Door
+    4300046: F Door
+    4300048: G Door
+    4300050: H Door
+    4300052: I Door
+    4300054: J Door
+    4300056: K Door
+    4300058: L Door
+    4300060: M Door
+    4300062: N Door
+    4300064: O Door
+    4300066: P Door
+    4300068: Q Door
+    4300070: R Door
+    4300072: S Door
+    4300074: T Door
+    4300076: U Door
+    4300078: V Door
+    4300080: W Door
+    4300082: X Door
+    4300084: Y Door
+    4300086: Z Door
+    4300088: Spawn Boxes
+    4300090: Dome
+    4300092: Windows
+    4300094: Windows004
+    4300096: Windows003
+    4300098: Windows002
+    4300100: Windows001
+    4300102: Screens
+    4300104: Supporter
+    4300106: RightHand
+    4300108: LeftHand
+    4300110: Head
+    4300112: Floor
+    4300114: Cone001
+    4300116: Cone002
+    4300118: Cone003
+    4300120: Cone004
+    4300122: Arena001
+    4300124: DoorFrames001
+    4300126: DoorThing007
+    4300128: DoorThing008
+    4300130: DoorThing009
+    4300132: DoorThing010
+    4300134: DoorThing011
+    4300136: DoorThing012
+    4300138: DoorThing013
+    4300140: DoorThings007
+    4300142: DoorThings008
+    4300144: DoorThings009
+    4300146: DoorThings010
+    4300148: DoorThings011
+    4300150: DoorThings012
+    4300152: DoorThings013
+    4300154: WallRibs001
+    4300156: Floor001
+    4300158: Object001
+    4300160: Supporter001
+    4300162: RightHand001
+    4300164: LeftHand001
+    4300166: Head001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 3cf0cf9caf021f941a374e58a23fabc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: 3cf0cf9caf021f941a374e58a23fabc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #30'
+    second: {fileID: 2100000, guid: 3cf0cf9caf021f941a374e58a23fabc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 3cf0cf9caf021f941a374e58a23fabc5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
