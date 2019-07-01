@@ -7,5 +7,5 @@ Head over to Assets/Scenes and play the Arena scene in Unity 2018.3.4f1.
 
 The folder structure is a bit messy but will be cleaned up in the coming weeks.
 
-We will be working on a build version very soon.
+We will be working on a built version very soon.
 
